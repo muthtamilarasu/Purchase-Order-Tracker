@@ -1,0 +1,13 @@
+## Visual Studio & .NET GitIgnore
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+UpgradeLog*.htm
+UpgradeLog*.xml
+[Tt]emp/
+*.log
